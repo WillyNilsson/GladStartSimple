@@ -1,0 +1,70 @@
+{
+  "title": "Vårens ljusglimtar 😊 Från teaterhjältar till idrottsgåvor! ✨",
+  "date": "24th March 2025",
+  "stories": [
+    {
+      "title": "Ålder är bara en siffra - passion vet inga gränser! 👵 🎭",
+      "content": "Inga Gustafsson, 85 år, bevisar att man aldrig är för gammal för att följa sina drömmar! Efter 17 år med teatergruppen \"Berguvarna\" turnerar hon nu med föreställningen \"Återvinning\" för att inspirera andra äldre. \"Man slutar inte leka för att man blir gammal, man blir gammal för att man slutar leka,\" säger Inga med ett leende. Och det är precis denna lekfulla inställning till livet som fortsätter genom dagens berättelser! 💖",
+      "source": "svt.se",
+      "emoji": "👵 🎭",
+      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/inga-85-aker-pa-turne-vill-inspirera-andra-aldre-att-borja-med-teater",
+      "image": "inga_teater_85.jpg"
+    },
+    {
+      "title": "Från scenen till idrottsarenan - när en person gör skillnad! 🏆 🏀",
+      "content": "Precis som Inga använder teatern för att sprida glädje, har mångmiljardären Torsten Jansson hittat sitt sätt att göra skillnad. Han har investerat otroliga 200 miljoner kronor i en multiarena på 10 000 kvadratmeter i lilla Kosta! \"Det fanns inget för ungdomar att göra,\" förklarar Torsten, som själv har bakgrund som pingisspelare. När reportern frågade vad han vinner på det hela svarade han enkelt: \"Inget annat än glädje.\" Samma glädje som Inga finner i teatern, finner Torsten i att ge ungdomar en meningsfull fritid! 🙌",
+      "source": "svt.se",
+      "emoji": "🏆 🏀",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/torsten-jansson-vill-skapa-idrottscentrum-i-kosta-investerar-200-miljoner",
+      "image": "torsten_arena_kosta.jpg"
+    },
+    {
+      "title": "Generositet som botar - från idrott till medicin! 🩺 ✨",
+      "content": "Medan Torsten investerar i fysisk hälsa genom idrott, kommer nu fantastiska nyheter inom medicinsk forskning! Tyska forskare har åstadkommit något som länge ansetts omöjligt - fem patienter med den autoimmuna sjukdomen SLE har blivit helt symptomfria efter genteknikbehandling! Detta genombrott visar att samma typ av engagemang som Torsten och Inga uppvisar, när det appliceras inom forskning, kan leda till livräddande genombrott! 🧬 💫",
+      "source": "svd.se",
+      "emoji": "🩺 ✨",
+      "link": "https://www.svd.se/a/0VJzB0/en-rad-genombrott-ger-hopp-mot-autoimmuna-sjukdomarna-sle-och-ms",
+      "image": "sle_breakthrough_research.jpg"
+    },
+    {
+      "title": "En stjärnas jordnära handling - från medicinsk till ekonomisk frihet! 🌈 💸",
+      "content": "Precis som forskarna använder sin expertis för att befria patienter från sjukdom, har skådespelaren Michael Sheen använt sin förmögenhet för att befria 900 personer från ekonomisk börda! Med 100 000 pund köpte han upp skulder i sin hemstad Port Talbot, där många drabbats av arbetslöshet efter att ortens stålverk lagts ner. \"Det blev som ett slag i magen,\" berättar Michael om när han hörde om situationen. Hans kreativa lösning på problemet visar att medkänsla, likt Ingas teater och Torstens arena, kan ta många former! 👏",
+      "source": "aftonbladet.se",
+      "emoji": "🌈 💸",
+      "link": "https://www.aftonbladet.se/nojesbladet/a/W0Bva2/stjarnan-gjorde-900-personer-skuldfria",
+      "image": "michael_sheen_debt.jpg"
+    },
+    {
+      "title": "Kärlek i överflöd - från människor till hundar! 🐕 ❤️",
+      "content": "När vi talar om medkänsla och kärlek - ett viralt klipp från ett hunddagis i Kina visar precis hur överflödande kärlek kan vara! När en anställd snubblade överöstes personen med hundkärlek istället för ilska. Precis som Michael Sheens generositet, Torstens investeringar och Ingas engagemang, påminner oss hundarna om kraften i ovillkorlig kärlek och glädje! 🌍 🐾",
+      "source": "expressen.se",
+      "emoji": "🐕 ❤️",
+      "link": "https://www.expressen.se/tv/nyheter/varlden/snubblar-pa-hunden-blir-overost-med-karlek/",
+      "image": "doggy_daycare_love.jpg"
+    },
+    {
+      "title": "Från vardagshjältar till idrottshjältar! ⚽ 🏆",
+      "content": "Talang och envishet lönar sig - precis som för alla våra vardagshjältar ovan! Svenska Alexander Isak blev matchhjälte när Newcastle bröt sin 70-åriga titeltorka med seger i ligacupfinalen mot Liverpool. \"Alexander Isak cementerar sin plats i Newcastles sägner,\" rapporterade BBC. På samma sätt som Inga, Torsten, forskarna och Michael skriver historia inom sina områden, skapade Isak ett historiskt ögonblick på fotbollsplanen! 🇸🇪 👑",
+      "source": "omni.se",
+      "emoji": "⚽ 🏆",
+      "link": "https://omni.se/isak-hjalte-nar-newcastle-tog-historisk-seger/a/76eB6E",
+      "image": "isak_newcastle_victory.jpg"
+    },
+    {
+      "title": "Kärlekens uthållighet - den ultimata framgångssagan! 💕 👴👵",
+      "content": "Och när vi talar om uthållighet - det brasilianska paret Manoel (105) och Maria (101) har just slagit världsrekord i längsta äktenskapet med otroliga 84 år tillsammans! Likt Inga som återvände till teatern efter livets alla plikter, visar paret att kärlek och engagemang bara växer sig starkare med åren. Deras hemlighet? \"Kärlek\", säger Maria enkelt. Samma kärlek som driver alla våra berättelser idag! 💝",
+      "source": "people.com",
+      "emoji": "💕 👴👵",
+      "link": "https://people.com/brazilian-couple-who-just-broke-record-for-longest-living-marriage-in-history-shares-secret-to-happy-union-11685081",
+      "image": "brazilian_couple_record.jpg"
+    },
+    {
+      "title": "En kopp hälsa till allt detta! 🧠 ☕",
+      "content": "Och medan du läser om alla dessa inspirerande människor, varför inte njuta av en kopp kaffe? Ny forskning visar att kaffedrickande kan minska risken för alzheimers och parkinsons med hela 30 procent! Bäst effekt ger osötat kaffe med koffein - ytterligare en anledning att ta en paus och reflektera över dagens goda nyheter med en värmande kopp i handen! ☕ 😊",
+      "source": "aftonbladet.se",
+      "emoji": "🧠 ☕",
+      "link": "https://www.aftonbladet.se/halsa/a/3MKxV0/kaffe-kan-minska-risken-for-alzheimers-och-parkinson",
+      "image": "coffee_brain_health.jpg"
+    }
+  ]
+}
